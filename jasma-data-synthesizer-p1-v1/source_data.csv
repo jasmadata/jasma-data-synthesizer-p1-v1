@@ -1,0 +1,24 @@
+product_id,product_name,category,price,units_sold,sale_date,customer_region,customer_age,customer_gender,rating
+P001,Ultra HD Smart TV,Electronics,899.99,12,2023-01-15,North,34,M,4.7
+P002,Wireless Headphones,Electronics,149.99,28,2023-01-16,South,27,F,4.5
+P003,Coffee Maker,Home Appliances,79.99,15,2023-01-17,East,42,F,4.2
+P004,Fitness Tracker,Wearables,59.99,32,2023-01-18,West,29,M,4.8
+P005,Blender,Home Appliances,49.99,8,2023-01-19,North,38,F,3.9
+P006,Gaming Console,Electronics,499.99,10,2023-01-20,South,22,M,4.9
+P007,Smartphone,Electronics,799.99,18,2023-01-21,East,31,F,4.6
+P008,Laptop,Electronics,1299.99,7,2023-01-22,West,45,M,4.4
+P009,Vacuum Cleaner,Home Appliances,199.99,11,2023-01-23,North,52,F,4.1
+P010,Smartwatch,Wearables,249.99,14,2023-01-24,South,33,M,4.3
+P011,Microwave Oven,Home Appliances,129.99,9,2023-01-25,East,40,F,4.0
+P012,Bluetooth Speaker,Electronics,89.99,22,2023-01-26,West,25,M,4.5
+P013,Air Purifier,Home Appliances,179.99,6,2023-01-27,North,47,F,4.7
+P014,Digital Camera,Electronics,349.99,5,2023-01-28,South,36,M,4.2
+P015,Toaster,Home Appliances,39.99,17,2023-01-29,East,29,F,3.8
+P016,Smart Doorbell,Smart Home,159.99,8,2023-02-01,North,42,M,4.6
+P017,Hair Dryer,Personal Care,49.99,15,2023-02-02,South,29,F,4.1
+P018,Gaming Keyboard,Gaming,129.99,23,2023-02-03,East,19,M,4.8
+P019,Office Chair,Office Equipment,199.99,7,2023-02-04,West,37,F,4.3
+P020,DSLR Camera,Photography,899.99,4,2023-02-05,North,44,M,4.9
+P021,Wireless Earbuds,Electronics,129.99,35,2023-03-10,Northeast,26,F,4.7
+P022,Air Fryer,Kitchen Appliances,149.99,28,2023-03-15,Southwest,33,M,4.5
+P023,Smart Thermostat,Smart Home,199.99,12,2023-04-05,Northwest,39,F,4.6
